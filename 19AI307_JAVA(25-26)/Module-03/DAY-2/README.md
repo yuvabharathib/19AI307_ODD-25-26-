@@ -26,8 +26,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by:SRINIDHI SENTHIL
-RegisterNumber: 212222230148 */
+Developed by:YUVABHARATHI B
+RegisterNumber: 212222230181
 ```
 
 ## SOURCE CODE:
@@ -95,4 +95,5 @@ public class TestVehicles {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
