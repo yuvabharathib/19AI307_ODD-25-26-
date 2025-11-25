@@ -16,8 +16,8 @@ To count and display the total number of characters in a file using FileReader.
  ```
 /*
 Program to implement a File Handling using Java
-Developed by:SRINIDHI SENTHIL
-RegisterNumber: 212222230148 
+Developed by: YUVABHARATHI B
+RegisterNumber: 212222230181
 */
 ```
 
@@ -74,4 +74,5 @@ public class FileCharacterCount {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
