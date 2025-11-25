@@ -23,8 +23,8 @@ To write a Java program that reads input from the keyboard using InputStreamRead
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: SRINIDHI SENTHIL
-RegisterNumber: 212222230148 
+Developed by: YUVABHARATHI B
+RegisterNumber: 212222230181 
 */
 ```
 
@@ -56,5 +56,6 @@ public class Q2_InputStreamReader {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
