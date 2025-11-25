@@ -38,8 +38,8 @@ To write a Java program that defines a class BankAccount with private attributes
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by:SRINIDHI SENTHIL
-RegisterNumber: 212222230148 
+Developed by:YUVABHARATHI B
+RegisterNumber: 212222230181
 */
 ```
 
@@ -98,5 +98,6 @@ public class prog
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
